@@ -11,12 +11,11 @@ How many Questions are in the Test?
 
     the number of question you will usually see is 90 
 
-<br>
-<br>
-<br>
+# Exam Objectives
 
-# the btk killer
+# Study Materials
 
-metadata
-who did wha to the file 
-how to retrieve metadata?
+# Study Plan
+
+# Practice Exams
+

@@ -1,9 +1,7 @@
-# security plus training
 
-## a small guide and how to 
+# Start
 
-start here
-[website](nothingyet)
+[Google cert requirements](/googleSecurityITceritificate/requirements.md)
 
-more information will be provided on the website
-[climate](/climate.md)
+[Sys-601 cert requirements](/SecurityPlus/requirements.md)
+

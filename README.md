@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="\styles.css">
+<link rel="stylesheet" href="https://github.com/novaxiophi/securityplusTraining.githubpages.io/blob/master/styles.css">
 
 [website](https://novaxiophi.github.io/securityplusTraining.githubpages.io/)
 

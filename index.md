@@ -19,7 +19,6 @@ security information to help learn about cyber security
   }
 
   .container {
-    max-width: 800px;
     margin: 0 auto;
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.8);

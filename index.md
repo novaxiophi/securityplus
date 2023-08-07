@@ -30,4 +30,19 @@ Welcome to my simple GitHub Pages website. This is a basic example of how to use
 
   <!-- Your Markdown content goes here -->
   <p>This is a paragraph in the container with a background image.</p>
+  
+  <h2>Markdown Elements</h2>
+  <p>You can use various Markdown elements:</p>
+  
+  - Lists:
+    - Item 1
+    - Item 2
+    - Item 3
+  
+  - Links: [GitHub](https://github.com)
+  - Emphasis: *Italic* or **Bold**
+  
+  ### Subheading
+  
+  You can keep adding more Markdown content as needed.
 </div>

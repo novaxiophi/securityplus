@@ -10,7 +10,7 @@ security information to help learn about cyber security
   body {
     margin: 0;
     padding: 0;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(39, 255, 255, );
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -21,7 +21,7 @@ security information to help learn about cyber security
   .container {
     margin: 0 auto;
     padding: 20px;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 43, 255, 0.2);
     color: rgba(0,0,0);
   }
 </style>

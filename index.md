@@ -10,7 +10,7 @@ Welcome to my simple GitHub Pages website. This is a basic example of how to use
   body {
     margin: 0;
     padding: 0;
-    background-image: url('https://github.com/novaxiophi/securityplusTraining.githubpages.io/blob/master/corridos.jpg');
+    background-image: url('/blob/master/corridos.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

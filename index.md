@@ -8,8 +8,7 @@ title: security + guide book
     margin: 0;
     padding: 0;
     background-image: url(corridos.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: center;
     font-family: Arial, sans-serif;
     color: rgba(0,0,0);
@@ -29,4 +28,5 @@ title: security + guide book
 security information to help learn about cyber security 
 
 # chapter 1
+
 - [requirements](SecurityPlus/requirements.md)

@@ -1,32 +1,11 @@
----
-title: security + guide book
----
 
+<link rel="stylesheet" href="styles.css">
 
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    background-image: url(corridos.jpg);
-    background-repeat: repeat;
-    background-position: center;
-    font-family: Arial, sans-serif;
-    color: rgba(0,0,0);
-  }
-
-  .container {
-    margin: 0 auto;
-    padding: 20px;
-    background-color: rgba(255, 43, 255, 0.2);
-    color: rgba(0,0,0);
-  }
-</style>
-
-<div class="container">
+<div class="title">
   <h1>security + guidebook</h1>
-  <iframe src="https://novaxiophi.github.io/securityplusTraining.githubpages.io/" title="i frame output"></iframe>
+  
 </div>
-security information to help learn about cyber security 
+security information to help learn about cyber security
 
 # chapter 1
 

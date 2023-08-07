@@ -10,7 +10,7 @@ security information to help learn about cyber security
   body {
     margin: 0;
     padding: 0;
-    background-image: url('corridos.jpg');
+    background-color: rgba(255, 255, 255, 0.8);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -33,7 +33,7 @@ security information to help learn about cyber security
   
   <h2>Markdown Elements</h2>
 
-  
+
   <p>You can use various Markdown elements:</p>
   
 

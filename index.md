@@ -15,6 +15,7 @@ security information to help learn about cyber security
     background-repeat: no-repeat;
     background-position: center;
     font-family: Arial, sans-serif;
+    color: rgba(0,0,0);
   }
 
   .container {
@@ -22,6 +23,7 @@ security information to help learn about cyber security
     margin: 0 auto;
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.8);
+    color: rgba(0,0,0);
   }
 </style>
 

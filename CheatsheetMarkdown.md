@@ -12,7 +12,6 @@ title: security + guide book title
     span red
 </span>
 
-
 <span style="color:green;font-weight:700;font-size:45px"> 
 same but green
 </span>
@@ -31,10 +30,9 @@ red color markdown text
 
 <yellow>
 
- notsure
+notsure
 
 </yellow>
-
 
 <p>
 <red> 
@@ -62,6 +60,36 @@ paragraph line 3
 
 # include special characters
 
-name= first \\# last
+<table>
+<tr>
+<th>Json 1</th>
+<th>Markdown</th>
+</tr>
+<tr>
+<td>
 
-My Bold Text, in red color.{: style=“color: red; opacity: 0.80;” }
+```json
+{
+  "id": 1,
+  "username": "joe",
+  "email": "joe@example.com",
+  "order_id": "3544fc0"
+}
+```
+
+</td>
+
+<td>
+
+```js
+{
+  "id": 5,
+  "username": "mary",
+  "email": "mary@example.com",
+  "order_id": "f7177da"
+}
+```
+
+</td>
+</tr>
+</table>

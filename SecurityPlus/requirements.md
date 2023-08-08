@@ -17,36 +17,25 @@ you need to :
 ## CompTIA Security+ 601 Exam Domains
 
 1. Attacks, Threats and Vulnerabilities (24%)
+  - [link](pageurl)
+  - [link](pageurl)
+  - [link](pageurl)
 
 2. Architecture and Design (21%)
+  - [link](pageurl)
+  - [link](pageurl)
 
 3. Implementation (25%)
+  - [link](pageurl)
 
 4. Operations and Incident Response (16%)
+  - [link](pageurl)
+  - [link](pageurl)
 
 5. Governance, Risk and Compliance (14%)
-
-<table>
-<tr>
-<th>Attacks, Threats and Vulnerabilities</th>
-<th> (24%)</th>
-</tr>
-<tr>
-<td>
-  
-Attacks, Threats and Vulnerabilities (24%)
-
-</td>
-<td>
-
-  "id": 5,
-  "username": "mary",
-  "email": "mary@example.com",
-  "order_id": "f7177da"
-
-</td>
-</tr>
-</table>
+  - [link](pageurl)
+  - [link](pageurl)
+  - [link](pageurl)
 
 
 

@@ -1,9 +1,7 @@
 <link rel="stylesheet" href="https://novaxiophi.github.io/securityplusTraining.githubpages.io/styles.css">
 
-<div class="title">
-</div>
 <div>
-<h3>Security +</h3>
+<h1>Security +</h1>
 <h3>SYS-601</h3>
 </div>
 
@@ -37,7 +35,11 @@ you need to :
   - [link](pageurl)
   - [link](pageurl)
 
+## Table of Contents
 
+- [Cheatsheet - Markdown to See What Works in GitHub Pages](#cheatsheet)
+- [Requirements](#requirements)
+- [Foundational Information](#foundational)
 
     
 

@@ -1,21 +1,16 @@
 <link rel="stylesheet" href="styles.css">
 
-<div class="title">
-<br>
-</div>
+# Cyber Security Guide
 
-security information to help learn about cyber security
+Security information to help learn about cyber security.
 
-##### [cheatsheet-Markdown to see what work in github-pages](CheatsheetMarkdown.md)
+- [Table of Contents](#table-of-contents)
+- [Cheatsheet - Markdown to See What Works in GitHub Pages](CheatsheetMarkdown.md)
+- [Requirements](SecurityPlus/requirements.md)
+- [Foundational Information](SecurityPlus/foundation.md)
 
-# Start
+## Table of Contents
 
-- [requirements](SecurityPlus/requirements.md)
-
-## [foundational information](SecurityPlus/foundation.md)
-
-<br>
-
-<div class="title">
-<br>
-</div>
+- [Cheatsheet - Markdown to See What Works in GitHub Pages](#cheatsheet)
+- [Requirements](#requirements)
+- [Foundational Information](#foundational)

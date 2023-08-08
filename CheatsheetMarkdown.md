@@ -2,7 +2,7 @@
 title: cheet sheet
 ---
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://novaxiophi.github.io/securityplusTraining.githubpages.io/styles.css">
 
 <div class="title">
   <h1>security + guidebook</h1>

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://novaxiophi.github.io/securityplusTraining.githubpages.io/styles.css">
+
 # Cyber Security Quiz
 
 1. What is the full form of CIA in the context of Cyber Security?

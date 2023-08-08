@@ -19,6 +19,8 @@ you need to :
   - [link](pageurl)
   - [link](pageurl)
 
+  [Quiz 1](../Quizes/test1.md)
+
 2. Architecture and Design (21%)
   - [link](pageurl)
   - [link](pageurl)

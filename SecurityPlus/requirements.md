@@ -25,7 +25,7 @@ you need to :
 5. Governance, Risk and Compliance (14%)
    
 
-- [CompTIA Security+ 601 Exam Domains](#comptia-security-601-exam-domains)
+
 
 
     

@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="[styles.css](https://github.com/novaxiophi/securityplusTraining.githubpages.io/blob/master/todo/styles.css)">
+<link rel="stylesheet" href="https://github.com/novaxiophi/securityplusTraining.githubpages.io/blob/master/todo/styles.css">
 
 # Cyber Security 601 Training Guide Book
 

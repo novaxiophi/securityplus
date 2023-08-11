@@ -62,7 +62,7 @@ Please ensure that any contributions align with the overall theme and quality of
 
 ---
 
-- [Cyber Security 601 Training Guide Book](#cyber-security-601-training-guide-book)
-  - [Introduction](#introduction)
-  - [Features](#features)
-  - [Getting Started](#getting-started)
+* Cyber Security 601 Training Guide Book
+  * Introduction
+  * Features
+  * Getting Started

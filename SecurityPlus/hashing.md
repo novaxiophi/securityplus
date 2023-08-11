@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://novaxiophi.github.io/securityplusTraining.githubpages.io/styles.css">
+<link rel="stylesheet" href="https://github.com/novaxiophi/securityplusTraining.githubpages.io/blob/master/todo/styles.css">
 
 1. Start by importing the hashlib library:
 

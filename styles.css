@@ -2,9 +2,9 @@ body {
   margin: 0;
   padding: 0;
   background-image: url(todo/SiteBG.jpg);
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
   font-family: Arial, sans-serif;
-  color: rgba(0,0,0);
+  color: rgb(255, 255, 255);
 }
-

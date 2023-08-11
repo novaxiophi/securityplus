@@ -94,6 +94,10 @@ paragraph line 3
 </tr>
 </table>
 
-- [Cheatsheet - Markdown to See What Works in GitHub Pages](/CheatsheetMarkdown.md)
-- [Requirements](SecurityPlus/requirements.md)
-- [Foundational Information](#foundational)
+- [Cyber Security 601 Training Guide Book](#cyber-security-601-training-guide-book)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](SecurityPlus/features.md)
+  - [Getting Started](#getting-started)
+  - [Contributing](#contributing)
+  - [License](license.md)

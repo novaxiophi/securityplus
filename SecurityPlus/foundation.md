@@ -33,7 +33,9 @@ To access the training guide, you have two options:
 <div style="background-color:black">
 <pre>
 <code>
+
 git clone https://github.com/yourusername/cyber-security-601.git
+
 </code>
 </pre>
 </div>
@@ -49,6 +51,10 @@ Make your changes and commit them: git commit -m 'Add new feature'.
 Push to the branch: git push origin my-new-feature.
 Open a pull request explaining the changes you made.
 Please ensure that any contributions align with the overall theme and quality of the training guide.
+
+<span style="color:green;font-weight:700;font-size:12px"> 
+So, when you run the command git checkout -b my-new-feature, Git will create a new branch named "my-new-feature" and then switch to that branch. This is useful when you want to start working on a new feature or task isolated from the main codebase, making it easy to keep your changes separate until they're ready to be merged back into the main branch.
+</span>
 
 ## Table of Contents
 

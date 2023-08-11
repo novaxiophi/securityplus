@@ -40,6 +40,16 @@ git clone https://github.com/yourusername/cyber-security-601.git
 
 Once cloned, you can open the markdown files with any Markdown viewer/editor.
 
+Contributing
+We appreciate contributions from the community to improve and expand this training guide. If you find any issues or have suggestions for new content, feel free to open an issue or submit a pull request. To contribute, follow these steps:
+
+Fork the repository.
+Create a new branch: git checkout -b my-new-feature.
+Make your changes and commit them: git commit -m 'Add new feature'.
+Push to the branch: git push origin my-new-feature.
+Open a pull request explaining the changes you made.
+Please ensure that any contributions align with the overall theme and quality of the training guide.
+
 ## Table of Contents
 
 - [Cheatsheet - Markdown to See What Works in GitHub Pages](/CheatsheetMarkdown.md)

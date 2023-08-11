@@ -1,7 +1,3 @@
----
-title: cheet sheet
----
-
 <link rel="stylesheet" href="https://novaxiophi.github.io/securityplusTraining.githubpages.io/styles.css">
 
 <div class="title">
@@ -58,7 +54,7 @@ paragraph line 3
 - item 5
 - item 5
 
-# include special characters
+include special characters
 
 <table>
 <tr>
@@ -93,11 +89,3 @@ paragraph line 3
 </td>
 </tr>
 </table>
-
-- [Cyber Security 601 Training Guide Book](#cyber-security-601-training-guide-book)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Features](SecurityPlus/features.md)
-  - [Getting Started](#getting-started)
-  - [Contributing](#contributing)
-  - [License](license.md)

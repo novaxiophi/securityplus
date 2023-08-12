@@ -1,10 +1,11 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url(https://github.com/novaxiophi/securityplusTraining.githubpages.io/blob/master/todo/SiteBG.jpg);
+  background-image: url(https://novaxiophi.github.io/securityplusTraining.githubpages.io/SiteBG.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   font-family: Arial, sans-serif;
   color: rgb(255, 255, 255);
 }
+

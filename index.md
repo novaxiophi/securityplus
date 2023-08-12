@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="securityplusTraining.githubpages.io
-/styles.css">
+<link rel="stylesheet" href="styles.css">
 
 # Cyber Security Guide
 

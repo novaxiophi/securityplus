@@ -2,10 +2,8 @@
 
 ## Introduction
 
-<<<<<<< HEAD
-=======
 This Cyber Security 601 Training Guide Book is designed with beginners to intermediate learners in the field of cyber security in mind. It will cover a wide range of topics, including but not limited to:
->>>>>>> parent of 5ff2c19 (fixing issues as i see them to make a fluid experience)
+
 
 - Introduction to Cyber Security
 - Network Security
@@ -25,10 +23,6 @@ This Cyber Security 601 Training Guide Book is designed with beginners to interm
 - Clear explanations and diagrams.
 - will add as them as i can think of them
 
-<<<<<<< HEAD
-
-
-=======
 ## Getting Started
 
 To access the training guide, you have two options:
@@ -68,4 +62,3 @@ So, when you run the command git checkout -b my-new-feature, Git will create a n
 - [Cheatsheet - Markdown to See What Works in GitHub Pages](/CheatsheetMarkdown.md)
 - [Requirements](SecurityPlus/requirements.md)
 - [Foundational Information](#foundational)
->>>>>>> parent of 5ff2c19 (fixing issues as i see them to make a fluid experience)

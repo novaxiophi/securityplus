@@ -31,7 +31,7 @@ To access the training guide, you have two options:
 
 2. Clone this repository to your local machine to access the markdown pages. You can use your favorite Markdown editor or a simple text editor to view and explore the guide. To clone the repository, use the following command in your terminal:
 
-<div style="background-color:black">
+
 <pre>
 <code>
 
@@ -39,7 +39,6 @@ git clone https://github.com/yourusername/cyber-security-601.git
 
 </code>
 </pre>
-</div>
 
 Once cloned, you can open the markdown files with any Markdown viewer/editor.
 
